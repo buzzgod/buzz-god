@@ -1,2 +1,2 @@
 # buzz-god
-desinger,espionagelover
+desinger,
